@@ -11,7 +11,7 @@ authorDesc:
 tags: 分享
 keywords: OneDrive5T
 description: 利用教育邮箱免费获取onedrive 5T存储空间
-photos: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.2/img/background/6b8c14f8gy1fp2zdelaqjj21c70zuq8p.jpg
+photos: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.2/img/background/5.jpg
 ---
 
 ## SCF 简介
