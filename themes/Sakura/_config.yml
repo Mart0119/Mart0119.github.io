@@ -4,9 +4,9 @@ siteName: Welcome
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/2.jpg
-url: https://github.com/ShmilyXI
+url: https://github.com/Mart0119
 description: 梦想，只有和勤奋作伴，才能如虎添翼
-cdn: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting
+cdn: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.1
 pjaxbackground/: 0
 # 1开启 
 mathjax: 0
@@ -151,22 +151,22 @@ siteBuildingTime: 21/05/2019
 
 #social  url, img PC端配置
 social:
-  github: { url: https://github.com/ShmilyXI, img: /img/social/github.png }
+  github: { url: https://github.com/Mart0119, img: /img/social/github.png }
   zhihu:
     {
-      url: https://www.zhihu.com/people/xrj-54/activities,
+      url: https://www.zhihu.com/people/mart0119,
       img: /img/social/zhihu.png,
     }
   bilibili:
-    { url: https://space.bilibili.com/15835744, img: /img/social/bilibili.png }
+    { url: https://space.bilibili.com/396830011, img: /img/social/bilibili.png }
   wangyiyun:
     {
-      url: https://music.163.com/#/user/home?id=338969676,
+      url: https://music.163.com/#/user/home?id=1333221257,
       img: /img/social/wangyiyun.png,
     }
   qq:
     {
-      url: https://wpa.qq.com/msgrd?v=3&uin=1262260527&site=qq&menu=yes,
+      url: https://wpa.qq.com/msgrd?v=3&uin=1098431095&site=qq&menu=yes,
       img: /img/social/qq.png,
     }
   wechat:
@@ -176,14 +176,14 @@ social:
 msocial:
   qq:
     {
-      url: https://wpa.qq.com/msgrd?v=3&uin=1262260527&site=qq&menu=yes,
+      url: https://wpa.qq.com/msgrd?v=3&uin=1098431095&site=qq&menu=yes,
       fa: fa-qq,
       color: 25c6fe,
     }
-  github: { url: https://github.com/ShmilyXI, fa: fa-github, color: 333 }
+  github: { url: https://github.com/Mart0119, fa: fa-github, color: 333 }
   wechat:
     {
-      url: https://www.zhihu.com/people/xrj-54/activities,
+      url: https://www.zhihu.com/people/xrj-54/mart0119,
       fa: fa-wechat,
       color: 01cf0b,
     }

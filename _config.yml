@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Shmily
+title: Mart
 subtitle:
 description:
 keywords:
-author: Shmily
+author: Mart
 language: zh-cn
 timezone:
 
@@ -96,9 +96,9 @@ deploy:
 # backup
 backup:
   type: git
-  message: backup my blog of https://github.com/ShmilyXI/Boke.git
+  message: backup my blog of https://github.com/Mart0119
   repository:
-    github: https://github.com/ShmilyXI/Boke.git,backup
+    github: https://github.com/Mart0119,backup
     # coding: https://git.coding.net/hojun/hojun.git,backup
 
 #RSS
