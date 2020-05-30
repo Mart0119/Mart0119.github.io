@@ -1,7 +1,7 @@
 ---
 title: Git 常用命令
 author: Mart
-avatar: "https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.2/img/custom/2.jpg"
+avatar: "https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.3/img/custom/2.jpg"
 authorLink: "http://mart0119.cn"
 categories: 技术
 comments: true
@@ -11,11 +11,11 @@ authorDesc:
 tags: 分享
 keywords: Git
 description: Git 常用命令
-photos: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.2/img/background/31.jpg
+photos: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.3/img/background/31.jpg
 ---
 
 ## 一、新建代码库
-![](https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.2/img/write/backGit.png)
+![](https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.3/img/write/backGit.png)
 
 ### 在当前目录新建一个Git代码库  
 ```
