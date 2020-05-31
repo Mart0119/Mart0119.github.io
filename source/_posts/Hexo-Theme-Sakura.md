@@ -13,7 +13,7 @@ tags:
  - 书单
 keywords: Sakura
 description: hexo-sakura主题使用教程
-photos: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.4/img/background/Wake.jpg
+photos: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.5/img/background/Wake.jpg
 ---
 hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-sakura/blob/master/README.md)
 

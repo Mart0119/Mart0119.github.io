@@ -6,7 +6,7 @@ favicon: /images/favicon.ico
 avatar: /img/custom/bkgimg.jpg
 url: https://github.com/Mart0119
 description: 梦想，只有和勤奋作伴，才能如虎添翼
-cdn: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.4
+cdn: https://cdn.jsdelivr.net/gh/Mart0119/ImgHosting@1.0.5
 pjaxbackground/: 0
 # 1开启 
 mathjax: 0
